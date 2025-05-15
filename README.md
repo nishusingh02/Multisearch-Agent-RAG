@@ -62,7 +62,7 @@ WIKIPEDIA_USER_AGENT=your_custom_user_agent
 ### 5. **Run the Application**
 
 ```bash
-python main.py
+python agent.py
 ```
 
 ---
